@@ -42,9 +42,19 @@ B.Tech - Data Science
 
 ---
 
-## 🔜 Task 3
+## ✅ Task 3: Iris Flower Classification
 
-Credit Card Fraud Detection (Coming Soon)
+**Objective:** Classify Iris flowers into Setosa, Versicolor, and Virginica species based on sepal and petal measurements.
+
+**Algorithm:** Random Forest Classifier
+
+**Technologies Used:**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 ---
 
