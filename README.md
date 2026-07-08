@@ -1,13 +1,22 @@
-# Titanic Survival Prediction
+# CODSOFT Data Science Internship
 
-## CodSoft Data Science Internship - Task 1
+## 👩‍💻 Name
+Aratipamula Mounika
 
-### Objective
+## 🎓 Course
+B.Tech - Data Science
 
-The objective of this project is to predict whether a passenger survived the Titanic disaster using Machine Learning.
+---
 
-### Technologies Used
+# Completed Tasks
 
+## ✅ Task 1: Titanic Survival Prediction
+
+**Objective:** Predict whether a passenger survived the Titanic disaster using Machine Learning.
+
+**Algorithm:** Random Forest Classifier
+
+**Technologies Used:**
 - Python
 - Pandas
 - NumPy
@@ -15,18 +24,30 @@ The objective of this project is to predict whether a passenger survived the Tit
 - Seaborn
 - Scikit-learn
 
-### Machine Learning Algorithm
+---
 
-- Random Forest Classifier
+## ✅ Task 2: Movie Rating Prediction
 
-### Dataset
+**Objective:** Predict movie ratings using features such as genre, director, actors, duration, and votes.
 
-Titanic Dataset
+**Algorithm:** Random Forest Regressor
 
-### Results
+**Technologies Used:**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
-The model achieved good prediction accuracy on the test dataset after preprocessing and training.
+---
 
-### Author
+## 🔜 Task 3
 
-Aratipamula Mounika
+Credit Card Fraud Detection (Coming Soon)
+
+---
+
+## Author
+
+**Aratipamula Mounika**
